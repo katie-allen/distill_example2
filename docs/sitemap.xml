@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://ktoutloud.github.io/distill_example2/about.html</loc>
+    <lastmod>2021-09-20T14:47:24-06:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ktoutloud.github.io/distill_example2/</loc>
+    <lastmod>2021-09-20T14:47:24-06:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ktoutloud.github.io/distill_example2/posts/2021-09-20-my-second-post/</loc>
+    <lastmod>2021-09-20T14:51:56-06:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ktoutloud.github.io/distill_example2/posts/welcome/</loc>
+    <lastmod>2021-09-20T14:47:33-06:00</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,13 @@
+name: "distill_example2"
+title: "My Fake Blog"
+base_url: https://ktoutloud.github.io/distill_example2/
+description: |
+  My Fake Blog
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
